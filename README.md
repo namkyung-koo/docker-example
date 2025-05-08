@@ -4,4 +4,5 @@
 ## 정리 문서
 [🐳 Docker](https://www.notion.so/Docker-7ecb5f44408a4d64907a6bd70a37e563) <br>
 [📁 Dockerfile](https://www.notion.so/Dockerfile-1ec51d1c97c0804b9b19fce5bbdb3dc3) <br>
-[📖 Docker Compose](https://www.notion.so/Docker-Compose-1ec51d1c97c080e19052e6aa6d0e88f4)
+[📖 Docker Compose](https://www.notion.so/Docker-Compose-1ec51d1c97c080e19052e6aa6d0e88f4) <br>
+[📝 Docker 백지 복습](https://www.notion.so/Docker-1ed51d1c97c08086aef2de0b3d849d12)
